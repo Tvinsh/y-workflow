@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="300px" viewBox="0 0 320 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-comment</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-comment" fill="#7D7E7E">
+            <g id="Group">
+                <path d="M160,0 C71.6,0 0,67.2 0,150 C0,177.3 7.8,203 21.4,225 L10,265 L10,265 L10,265 L10,265 L5.5,280.8 C2.5,291.4 8.7,297.1 18.9,293.7 L34.4,288.5 L34.4,288.5 L34.4,288.5 L72.7,275.7 C97.8,291 127.8,299.9 160,299.9 C248.4,299.9 320,232.7 320,149.9 C320,67.1 248.4,0 160,0 Z M160,270 C134.1,270 109.4,263 88.4,250.2 L76.5,242.9 L63.3,247.3 L44.5,253.6 L50.3,233.3 L53.9,220.6 L46.9,209.3 C35.9,191.3 30,171.1 30,150 C30,84.2 87.8,30 160,30 C232.2,30 290,84.2 290,150 C290,215.8 232.2,270 160,270 Z" id="Shape"></path>
+                <circle id="Oval" cx="80" cy="150" r="20"></circle>
+                <circle id="Oval" cx="160" cy="150" r="20"></circle>
+                <circle id="Oval" cx="240" cy="150" r="20"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

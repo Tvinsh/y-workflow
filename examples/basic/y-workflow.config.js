@@ -6,7 +6,7 @@ module.exports = {
     {
       $lib: 'sequence',
       taskName: 'dev',
-      tasks: [['clean:cache'], ['fontMin:watch', 'imgMin:watch', 'imgSprite:watch', 'svgSprite:watch', 'css:dev:watch', 'js:watch', 'html:watch'], 'server:dev'],
+      tasks: [['clean:cache'], ['fontMin:watch', 'iconfont:watch', 'imgMin:watch', 'imgSprite:watch', 'svgSprite:watch', 'css:dev:watch', 'js:watch', 'html:watch'], 'server:dev'],
     },
 
     // build
@@ -76,6 +76,19 @@ module.exports = {
         textFile: `./src/font/${name}/words.txt`,
         urify: './.cache',
       }),
+    },
+
+    // 字体图标
+    {
+      $lib: 'iconfont',
+      taskName: 'iconfont',
+      src: './src/iconfont',
+      dest: './.cache/static/iconfont',
+      iconfont: {
+        className: 'iconfont',
+        fontPath: '',
+      },
+      watch: true,
     },
 
     // 图片

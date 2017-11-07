@@ -163,6 +163,12 @@ yWorkflow.run('dev', {
 * `urify` 传给 [gulp-urify](https://github.com/yued-fe/y-workflow/blob/master/plugins/gulp-urify/index.js) 的配置
 
 
+#### iconfont lib 配置
+
+* `src` 待处理文件所在文件夹
+* `iconfont` 传给 [gulp-iconfont-css](https://github.com/backflip/gulp-iconfont-css) 的配置，其中`className`表示引用时使用的类名，默认为`iconfont`；`fontPath`表示字体css内引用字体文件的根路径，默认为空
+
+
 
 ## 测试
 

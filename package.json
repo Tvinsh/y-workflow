@@ -57,6 +57,9 @@
   "devDependencies": {
     "eslint-config-airbnb-base": "^12.1.0",
     "eslint-plugin-import": "^2.8.0",
+    "gulp-consolidate": "^0.2.0",
+    "gulp-iconfont": "^9.0.2",
+    "gulp-iconfont-css": "^2.1.0",
     "npm-run-all": "^4.1.1",
     "y-server": "0.0.8",
     "y-server-plugin-ejs": "0.0.2",
